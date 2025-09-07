@@ -20,12 +20,24 @@
 ## 🛠️ Skills  
 
 ### 💻 Technical  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-FF4500?style=for-the-badge&logo=database&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+
+
+
+
+
+
+
+
 
 ### 🤝 Soft Skills  
 ✨ Communication | ⏳ Time Management | ⚡ Quick Learner | 🤝 Teamwork  
@@ -34,17 +46,39 @@
 
 ## 📂 Projects  
 
+<div align="center">
+
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
+
 ### 🔎 Deceptive Content Detection  
-A **Flask-based ML web app** to detect fake news using Logistic Regression, Google Search & Gemini AI.  
-![Fake News](https://media.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif)  
+<img src="https://media.tenor.com/BNdrdkM3wJkAAAAM/webmaster-website.gif" width="200"><br>
+A Flask-based ML web app that detects **fake news** using Logistic Regression, Google Search & Gemini AI.  
+⭐ *Focus: Data Science, Flask, ML*
+
+</td>
+<td width="30%" align="center" valign="top">
 
 ### 🏠 Smart Home Automation  
-An **IoT project** with Arduino to remotely control appliances.  
-<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300"/>  
+<img src="https://media.tenor.com/os8eme44S3cAAAAM/home-automation-control4-home-automation-ideas-2023.gif" width="200"><br>
+An **IoT project** with Arduino to remotely control appliances at home.  
+⭐ *Focus: IoT, Arduino, Automation*
+
+</td>
+<td width="30%" align="center" valign="top">
 
 ### 💰 Personal Finance Tracker  
-A **responsive web app** (HTML + CSS) for expense tracking.  
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>  
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200"><br>
+A **responsive web app** to manage daily expenses efficiently.  
+⭐ *Focus: Web Dev, HTML, CSS*
+
+</td>
+</tr>
+</table>
+
+</div>
+  
 
 ---
 
