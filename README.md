@@ -5,14 +5,14 @@
 
 <img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-🌟 **Aspiring Full Stack Developer | Data Science Enthusiast | Problem Solver**  
+🌟 **Aspiring Full Stack Developer**  
 
 ---
 
 ## 🚀 About Me  
 - 🎓 **BE in Computer Science** at **MVJ College of Engineering** (2021-2025)  
 - 💻 Training in **Python Full Stack Development** at Qspiders  
-- 🧠 Interests: Full Stack Development, Data Science, AI & IoT  
+- 🧠 Interests: Full Stack Development 
 - 🌍 Languages: Kannada, English, Hindi, Telugu  
 
 ---
