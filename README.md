@@ -68,8 +68,10 @@ An **IoT project** with Arduino to remotely control appliances at home.
 </td>
 <td width="30%" align="center" valign="top">
 
-### 💰 Personal Finance Tracker  
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200"><br>
+### 💰 Personal Finance Tracker
+<a href="https://github.com/Rashmika-SH/Personal-Finance-Tracker/tree/main" target="_blank">
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200">
+</a><br>
 A **responsive web app** to manage daily expenses efficiently.  
 ⭐ *Focus: Web Dev, HTML, CSS*
 
